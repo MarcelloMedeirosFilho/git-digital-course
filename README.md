@@ -11,4 +11,5 @@
 * git push origin main (BRANCH)
 * git pull (Atualiza o codigo local)
 * git fetch (verifica o codigo que será atualizado)
+* git diff (mostra as linhas modificadas) git diff origin/main
 
