@@ -14,3 +14,4 @@
 * git diff (mostra as linhas modificadas) git diff origin/main
 * git branch (nome da branch que quero criar)
 * git checkout (branch que quero acessar)
+* git merge (nome da branch que quero trazer as modificações de codigo)
