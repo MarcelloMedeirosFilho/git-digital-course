@@ -10,4 +10,5 @@
 * git restore .\ :restaurar arquivos modificados, git restore -- staged 
 * git push origin main (BRANCH)
 * git pull (Atualiza o codigo local)
+* git fetch (verifica o codigo que será atualizado)
 
