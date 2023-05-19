@@ -2,4 +2,5 @@
 
 # Salvando modificações no Git
 
-## comandos : git status, git add .\, gitcommit -m "add new title"
+## comandos : git status, git add .\, git commit -m "add new title", Git log: Histórico dos commit, git restore .\ :restaurar arquivos modificados 
+
